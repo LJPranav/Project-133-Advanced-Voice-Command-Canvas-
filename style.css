@@ -1,0 +1,17 @@
+body
+{
+	text-align: center;
+	background-color: magenta;
+	font-weight: bold;
+	color: black;
+}
+span
+{
+	font-size: 20px;
+	color: blue;
+}
+canvas
+{
+	background: lightblue;
+	border-radius: 20px;
+}
